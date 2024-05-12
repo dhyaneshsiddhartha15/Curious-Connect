@@ -52,7 +52,7 @@ const Footer = () => {
 
         <div className="p-2 col-span-2 pt-8 md:pt-2">
           <p className="font-bold uppercase text-black">Subscribe to our newsletter</p>
-          <p className="py-4 text-blue-600">
+          <p className="py-4 text-blue-800">
             The latest news, articles, and resources, sent to your inbox weekly.
           </p>
           <form className="flex flex-col sm:flex-row">
